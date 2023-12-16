@@ -1,2 +1,3 @@
 # my amazon project
-created by my local system
+this project was created by my local system.
+created by kritika soni.
